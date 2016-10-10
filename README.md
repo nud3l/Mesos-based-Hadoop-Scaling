@@ -1,5 +1,5 @@
 # Mesos based Hadoop scaling
-TU Delft/IN4392 Cloud Computing Seminar
+## TU Delft/IN4392 Cloud Computing Seminar
 Checkmetrix brings data-analytics and connectivity
 possibilities within the reach of small retailers. With this solution
 small businesses store their sales information centrally in a
